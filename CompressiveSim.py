@@ -5,7 +5,7 @@ Ryan A. Colyer
 Compressive Fluorescence Lifetime Imaging Microscopy simulation testbed.
 
 This simulation is for working out analysis ideas under a controlled system,
-prior to implementation with the experimental data.
+and to demonstrate the Compressed Phasors method.
 
 This approach is based on a previous MATLAB simulation done as undergraduate
 research by Sarah Grant.
