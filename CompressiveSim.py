@@ -24,8 +24,6 @@ run_timer = rt.RunTime()
 randseed = None
 freq = 2*((32/17)*100e6)/8
 frames_per_s = 60
-sim_cps = 20000
-frame_count = 200
 
 print('randseed', randseed)
 print('freq', freq)
